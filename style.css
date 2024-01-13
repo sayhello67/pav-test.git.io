@@ -1,0 +1,110 @@
+.button-mining-area {
+    margin-top: 5vh;
+}
+
+.button-1 {
+    background-color: black;
+    color: orange;
+    margin: auto;
+    display: flex;
+    border: none;
+    align-items: center;
+    width: 145px;
+    height: 65px;
+    padding-left: 13px;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 2px;
+    margin-bottom: 2px;
+}
+
+.button-2 {
+    background-color: purple;
+    color: white;
+    border-radius: 2px;
+    margin: auto;
+    display: flex;
+    border: none;
+    align-items: center;
+    width: 145px;
+    height: 65px;
+    padding-left: 13px;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 600;
+    display: none;
+}
+
+.button-3 {
+    background-color: green;
+    color: white;
+    border-radius: 2px;
+    margin: auto;
+    display: flex;
+    border: none;
+    align-items: center;
+    width: 145px;
+    height: 65px;
+    padding-left: 13px;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 2px;
+    display: none;
+}
+
+.mining-area {
+    display: none;
+}
+
+.pavel-coins, .btn-mining-are-title, .level-title, .xp-title {
+    font-family: arial;
+    text-align: center;
+}
+
+.fenete {
+    display: block;
+}
+
+.a-line {
+    height: 10px;
+    border: none;
+    border-radius: 6px;
+    background-color: #049418;
+}
+
+.b-line {
+    height: 10px;
+    border: none;
+    border-radius: 6px;
+    background-color: #940404;
+}
+
+.mining-embed-wallet {
+    border-left: 10px solid rgba(255, 0, 0, 0.473);
+    border-radius: 2px;
+    padding-left: 10px;
+    background-color: rgba(40, 40, 43, 0.9);
+    color: white;
+    font-family: Arial;
+    width: 200px;
+}
+
+.mine-btn {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    width: 145px;
+    height: 65px;
+    cursor: pointer;
+}
+
+.sell-btn {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    width: 145px;
+    height: 65px;
+    cursor: pointer;
+}
